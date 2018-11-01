@@ -1,0 +1,16 @@
+##########################################
+
+
+        This is a thinking doc
+
+
+
+
+1.language: 
+  python
+
+2.description:
+  a card game
+
+3.function: 
+  a game about card.                                         
